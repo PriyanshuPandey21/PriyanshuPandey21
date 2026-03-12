@@ -3,7 +3,7 @@
 
 - 🎓 B.Tech CSE @ Lovely Professional University (CGPA: 7.00)  
 - 💻 150+ problems on LeetCode | 75+ day streak |
-- 💻 150+ problems on GFG | 75+ day streak |
+- 💻 115+ problems on GFG | 75+ day streak |
 - 🌐 Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
 - 💬 Ask me about **DSA, Web Dev, Real-Time Systems, AI Integration**  
