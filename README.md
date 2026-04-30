@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Pandey</h1>
 <p align="center">A full-stack developer passionate about building scalable web apps, real-time systems, and AI-integrated platforms.</p>
 
-- 🎓 B.Tech CSE @ Lovely Professional University (CGPA: 7.00)  
-- 💻 180+ problems on LeetCode | 116+ day streak |
+- 🎓 B.Tech CSE @ Lovely Professional University (CGPA: 6.92)  
+- 💻 180+ problems on LeetCode | 120+ day streak |
 - 💻 145+ problems on GFG | 115+ day streak |
 - 🌐 Tech Stack: React, Next.js, Node.js, MongoDB, PostgreSQL, Tailwind, TypeScript & more  
 - 🌱 Currently exploring **Web3** and **DevOps**  
