@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/priyanshu-pandey-cse/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  ---
+  
   <a href="mailto:priyanshupandey652005@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" />
   </a>
